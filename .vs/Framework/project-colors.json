@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aad0e93b-172f-4b22-9143-e76d6efd0c9f": {
+      "ProjectGuid": "aad0e93b-172f-4b22-9143-e76d6efd0c9f",
+      "DisplayName": "Framework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

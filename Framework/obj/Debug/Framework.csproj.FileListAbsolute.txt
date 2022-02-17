@@ -1,0 +1,8 @@
+C:\Tools\Devdeouf\Framework\Framework\bin\Debug\Framework.exe.config
+C:\Tools\Devdeouf\Framework\Framework\bin\Debug\Framework.exe
+C:\Tools\Devdeouf\Framework\Framework\bin\Debug\Framework.pdb
+C:\Tools\Devdeouf\Framework\Framework\obj\Debug\Framework.csproj.AssemblyReference.cache
+C:\Tools\Devdeouf\Framework\Framework\obj\Debug\Framework.csproj.SuggestedBindingRedirects.cache
+C:\Tools\Devdeouf\Framework\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Tools\Devdeouf\Framework\Framework\obj\Debug\Framework.exe
+C:\Tools\Devdeouf\Framework\Framework\obj\Debug\Framework.pdb
